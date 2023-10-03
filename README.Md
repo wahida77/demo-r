@@ -1,4 +1,4 @@
-$ DEMO
+ DEMO
 
 
-$some descriptio
+some descriptio
